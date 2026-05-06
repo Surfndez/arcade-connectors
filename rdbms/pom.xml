@@ -21,14 +21,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <properties>
-        <commons-lang3.version>3.8.1</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <orientdb-core.version>2.2.36</orientdb-core.version>
         <orientdb-graphdb.version>2.2.36</orientdb-graphdb.version>
         <mysql-connector-java.version>8.0.15</mysql-connector-java.version>
-        <postgresql.version>42.2.5</postgresql.version>
-        <hsqldb.version>2.4.1</hsqldb.version>
+        <postgresql.version>42.7.11</postgresql.version>
+        <hsqldb.version>2.7.1</hsqldb.version>
         <dw-jdbc.version>0.4.4</dw-jdbc.version>
-        <jackson-databind.version>2.9.8</jackson-databind.version>
+        <jackson-databind.version>2.12.7.1</jackson-databind.version>
     </properties>
 
     <parent>
